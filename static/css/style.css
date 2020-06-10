@@ -1,0 +1,31 @@
+
+.text_effect:hover{
+    transform: rotate(360deg);
+}
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+
+.social-link,ul,li{
+    list-style-type: none;
+    display: inline-block;
+
+
+}
+.social{
+    width: 30px;
+    height: 30px;
+}
+
+.pic{
+    border-radius: 100px;
+}
+
+.border-3 {
+    border-width:3px !important;
+}
+
+
+
+
